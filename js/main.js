@@ -19,6 +19,7 @@ var app = new Vue({
             } else {
                 alert("Ingrese nombre y promedio por favor");
             }
-        }
+        },
+        
     }
 })
